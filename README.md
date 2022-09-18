@@ -20,9 +20,11 @@ The mangager's required to know from Bobby's analsis the number of titles that w
 Unique_titles table created from the retirement titles
 ![2022-09-18 14 27 47](https://user-images.githubusercontent.com/107796290/190922745-b68ad7ef-203d-4fe1-aa22-7d84dd227be5.png)
 
-Finally Bobby wrote a query to create a tlbe that held the employeses who were eligible to participate in the mentorship program.  The was able to use SQL to query the employee number, first and last name their date of birth and from and to date of employment with thier title. 
+Finally Bobby wrote a query to create a table that held the employeses who were eligible to participate in the mentorship program.  The was able to use SQL to query the employee number, first and last name their date of birth and from and to date of employment with thier title. 
+
 
 mentorship eligibity table 
 ![2022-09-18 14 24 33](https://user-images.githubusercontent.com/107796290/190922630-204cfc67-2f40-45d6-b5bb-5fec56a39a78.png)
 
-All four of the resource table provided an overview to understand how many employees are retiring in each title by employees number and name to provided them with the mentorship eligibity along with providing human resources with the number of positions that will require to be refilled acccording to each of the employees retirement date. This data also provides human resources with the overall titles that were held by each employee that may effect the overall job recruitment if one employee held more that one title. 
+  In SUMMARY:
+  In summary, all four of the resource table provided an overview to understand how many employees are retiring in each title by employees number and name to provided them with the mentorship eligibity along with providing human resources with the number of positions that will require to be refilled acccording to each of the employees retirement date. This data also provides human resources with the overall titles that were held by each employee that may effect the overall job recruitment if one employee held more that one title. Some of the employes held multiple roles over the during of thier employment with the company which effects if they were to split the roles of one employee to two new hires. It will effect the budget for salary depedending on the number of years that they will now require for each title being replaced. This may overall effect may make an impact to replace current employees reaching retirement for the "silver tsunami". At the same token the number of retirees being replaced may create a restucturing form within and new methodogies by the new hires to create innovate ways to build within the company. 
